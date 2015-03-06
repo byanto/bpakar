@@ -22,6 +22,17 @@
         <role>developer</role>
       </roles>
     </developer>
+    <developer>
+      <id>YodiYanwar</id>
+      <name>Yodi Yanwar</name>
+      <email>yodi.yanwar@gmail.com</email>
+      <url>http://yodiyanwar.com</url>
+      <organization>Ibn Khaldun University Bogor</organization>
+      <organizationUrl>http://www.uika-bogor.ac.id</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>    
   </developers>
 
   <dependencies>
