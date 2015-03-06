@@ -33,6 +33,16 @@
         <role>developer</role>
       </roles>
     </developer>    
+    <developer>
+      <id>IrfunAhmad</id>
+      <name>Ahmad Irfan</name>
+      <email>irfun_prtv@yahoo.co.id</email>
+      <url></url>
+      <organization></organization>
+      <organizationUrl></organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles> 
   </developers>
 
   <properties>
