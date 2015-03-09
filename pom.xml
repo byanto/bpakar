@@ -43,6 +43,18 @@
       <roles>
         <role>developer</role>
       </roles> 
+    <developer>
+    <developer>
+      <id>emre</id>
+      <name>Nanang Sutisna</name>
+      <email>emresutisna@gmail.com</email>
+      <url></url>
+      <organization>Komunitas Pengguna Ubuntu Cilegon</organization>
+      <organizationUrl>http://www.ubuntu-cilegon.com</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles> 
+    <developer>    
   </developers>
 
   <properties>
