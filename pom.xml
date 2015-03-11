@@ -43,7 +43,7 @@
       <roles>
         <role>developer</role>
       </roles> 
-    <developer>
+    </developer>
     <developer>
       <id>emre</id>
       <name>Nanang Sutisna</name>
@@ -54,7 +54,7 @@
       <roles>
         <role>developer</role>
       </roles> 
-    <developer>    
+    </developer>
   </developers>
 
   <properties>
