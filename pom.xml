@@ -55,6 +55,17 @@
         <role>developer</role>
       </roles> 
     </developer>
+    <developer>
+      <id>gcpuspita</id>
+      <name>Gita Citra Puspita</name>
+      <email>puspita.gitacitra@gmail.com</email>
+      <url></url>
+      <organization>BPPT</organization>
+      <organizationUrl>http://barunajaya.bppt.go.id</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles> 
+    </developer>    
   </developers>
 
   <properties>
